@@ -1,0 +1,17 @@
+# Foldere de output (generate de script - nu se pun in git)
+output_extrase_mai_2026/
+extrase-iunie-2026/
+output/
+output*/
+
+# Fisiere generate direct in radacina
+*.xlsx
+*.dbf
+*_concat.xml
+
+# Python
+__pycache__/
+*.pyc
+
+# macOS
+.DS_Store

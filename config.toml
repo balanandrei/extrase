@@ -7,14 +7,13 @@
 # Folderele cu PDF-uri de procesat. Adauga oricate vrei.
 # Fiecare folder produce propriul set de output (Excel + DBF + XML).
 input_folders = [
-    "/Users/apple/Documents/documente primarii/baneasa/EXTRASE MAI 2026",
-    # "/Users/apple/Documents/documente primarii/baneasa/EXTRASE IUNIE 2026",
+    "/Users/apple/Documents/extrase-primarii/extrase_06_2026",
 ]
 
 # Folderul de baza pentru output. Pentru fiecare input folder se creeaza
 # aici un subfolder cu numele lui, continand {nume}.xlsx, {nume}.dbf,
 # {nume}_concat.xml si xml_extrase/.
-output_folder = "/Users/apple/Documents/primarii/output"
+output_folder = "/Users/apple/Documents/primarii/extrase-iunie-2026"
 
 # --- Optionale (au valori implicite bune, le poti sterge) ---
 
