@@ -1,0 +1,452 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<extras Data_extras="25-May-2026" Denumire_EP="COMUNA BANEASA" Nr_ext="11">
+    <cont_ext>
+        <cont Cod_IBAN="RO68TREZ3212107020101XXX" Nr_op="1">21A0701015182140</cont>
+        <Sold_precedent>
+            <Sumad>0</Sumad>
+            <Sumac>124157.48</Sumac>
+        </Sold_precedent>
+        <cont_misc>
+            <nrdoc>10000938537</nrdoc>
+            <datadoc>20260525</datadoc>
+            <databan>20260525</databan>
+            <nrrefdest>TZ32136725571</nrrefdest>
+            <ibanbfpl/>
+            <platitor>5182140</platitor>
+            <numepb>COM.BANEASA PRIN SARBU AURA</numepb>
+            <sumad>0</sumad>
+            <sumac>999</sumac>
+            <codcontract/>
+            <randcontract/>
+            <codprogram/>
+            <explicatii>TZ32136725572-Impozit pe cladiri de la persoane fizice</explicatii>
+        </cont_misc>
+        <Rulaj_zi>
+            <Sumad>0</Sumad>
+            <Sumac>999</Sumac>
+        </Rulaj_zi>
+        <Total_sume>
+            <Sumad>0</Sumad>
+            <Sumac>125156.48</Sumac>
+        </Total_sume>
+        <Sold_final>
+            <Sumad>0</Sumad>
+            <Sumac>125156.48</Sumac>
+        </Sold_final>
+    </cont_ext>
+    <cont_ext>
+        <cont Cod_IBAN="RO15TREZ3212107020201XXX" Nr_op="1">21A0702015182140</cont>
+        <Sold_precedent>
+            <Sumad>0</Sumad>
+            <Sumac>116179.5</Sumac>
+        </Sold_precedent>
+        <cont_misc>
+            <nrdoc>10000938536</nrdoc>
+            <datadoc>20260525</datadoc>
+            <databan>20260525</databan>
+            <nrrefdest>TZ32136725569</nrrefdest>
+            <ibanbfpl/>
+            <platitor>5182140</platitor>
+            <numepb>COM.BANEASA PRIN SARBU AURA</numepb>
+            <sumad>0</sumad>
+            <sumac>1339</sumac>
+            <codcontract/>
+            <randcontract/>
+            <codprogram/>
+            <explicatii>TZ32136725570-Impozit pe terenuri de la persoane fizice</explicatii>
+        </cont_misc>
+        <Rulaj_zi>
+            <Sumad>0</Sumad>
+            <Sumac>1339</Sumac>
+        </Rulaj_zi>
+        <Total_sume>
+            <Sumad>0</Sumad>
+            <Sumac>117518.5</Sumac>
+        </Total_sume>
+        <Sold_final>
+            <Sumad>0</Sumad>
+            <Sumac>117518.5</Sumac>
+        </Sold_final>
+    </cont_ext>
+    <cont_ext>
+        <cont Cod_IBAN="RO12TREZ3212107020203XXX" Nr_op="1">21A0702035182140</cont>
+        <Sold_precedent>
+            <Sumad>0</Sumad>
+            <Sumac>556806.5</Sumac>
+        </Sold_precedent>
+        <cont_misc>
+            <nrdoc>10000938539</nrdoc>
+            <datadoc>20260525</datadoc>
+            <databan>20260525</databan>
+            <nrrefdest>TZ32136725587</nrrefdest>
+            <ibanbfpl/>
+            <platitor>5182140</platitor>
+            <numepb>COM.BANEASA PRIN SARBU AURA</numepb>
+            <sumad>0</sumad>
+            <sumac>2799</sumac>
+            <codcontract/>
+            <randcontract/>
+            <codprogram/>
+            <explicatii>TZ32136725588-Impozit pe terenul din extravilan</explicatii>
+        </cont_misc>
+        <Rulaj_zi>
+            <Sumad>0</Sumad>
+            <Sumac>2799</Sumac>
+        </Rulaj_zi>
+        <Total_sume>
+            <Sumad>0</Sumad>
+            <Sumac>559605.5</Sumac>
+        </Total_sume>
+        <Sold_final>
+            <Sumad>0</Sumad>
+            <Sumac>559605.5</Sumac>
+        </Sold_final>
+    </cont_ext>
+    <cont_ext>
+        <cont Cod_IBAN="RO87TREZ3212116020201XXX" Nr_op="1">21A1602015182140</cont>
+        <Sold_precedent>
+            <Sumad>0</Sumad>
+            <Sumac>238956.84</Sumac>
+        </Sold_precedent>
+        <cont_misc>
+            <nrdoc>10000938556</nrdoc>
+            <datadoc>20260525</datadoc>
+            <databan>20260525</databan>
+            <nrrefdest>TZ32136725621</nrrefdest>
+            <ibanbfpl/>
+            <platitor>5182140</platitor>
+            <numepb>COM.BANEASA PRIN SARBU AURA</numepb>
+            <sumad>0</sumad>
+            <sumac>5843</sumac>
+            <codcontract/>
+            <randcontract/>
+            <codprogram/>
+            <explicatii>TZ32136725622-Impozit pe mijloacele de transport detinute de persoane fizice</explicatii>
+        </cont_misc>
+        <Rulaj_zi>
+            <Sumad>0</Sumad>
+            <Sumac>5843</Sumac>
+        </Rulaj_zi>
+        <Total_sume>
+            <Sumad>0</Sumad>
+            <Sumac>244799.84</Sumac>
+        </Total_sume>
+        <Sold_final>
+            <Sumad>0</Sumad>
+            <Sumac>244799.84</Sumac>
+        </Sold_final>
+    </cont_ext>
+    <cont_ext>
+        <cont Cod_IBAN="RO37TREZ3212116020202XXX" Nr_op="1">21A1602025182140</cont>
+        <Sold_precedent>
+            <Sumad>0</Sumad>
+            <Sumac>28194</Sumac>
+        </Sold_precedent>
+        <cont_misc>
+            <nrdoc>10000938559</nrdoc>
+            <datadoc>20260525</datadoc>
+            <databan>20260525</databan>
+            <nrrefdest>TZ32136725629</nrrefdest>
+            <ibanbfpl/>
+            <platitor>5182140</platitor>
+            <numepb>COM.BANEASA PRIN SARBU AURA</numepb>
+            <sumad>0</sumad>
+            <sumac>861</sumac>
+            <codcontract/>
+            <randcontract/>
+            <codprogram/>
+            <explicatii>TZ32136725630-Impozit pe mijloacele de transport detinute de persoane juridice</explicatii>
+        </cont_misc>
+        <Rulaj_zi>
+            <Sumad>0</Sumad>
+            <Sumac>861</Sumac>
+        </Rulaj_zi>
+        <Total_sume>
+            <Sumad>0</Sumad>
+            <Sumac>29055</Sumac>
+        </Total_sume>
+        <Sold_final>
+            <Sumad>0</Sumad>
+            <Sumac>29055</Sumac>
+        </Sold_final>
+    </cont_ext>
+    <cont_ext>
+        <cont Cod_IBAN="RO30TREZ32121180250XXXXX" Nr_op="2">21A1850005182140</cont>
+        <Sold_precedent>
+            <Sumad>0</Sumad>
+            <Sumac>518018</Sumac>
+        </Sold_precedent>
+        <cont_misc>
+            <nrdoc>10000938561</nrdoc>
+            <datadoc>20260525</datadoc>
+            <databan>20260525</databan>
+            <nrrefdest>TZ32136725633</nrrefdest>
+            <ibanbfpl/>
+            <platitor>5182140</platitor>
+            <numepb>COM.BANEASA PRIN SARBU AURA</numepb>
+            <sumad>0</sumad>
+            <sumac>30</sumac>
+            <codcontract/>
+            <randcontract/>
+            <codprogram/>
+            <explicatii>TZ32136725634-Alte impozite si taxe</explicatii>
+        </cont_misc>
+        <cont_misc>
+            <nrdoc>10000938564</nrdoc>
+            <datadoc>20260525</datadoc>
+            <databan>20260525</databan>
+            <nrrefdest>TZ32136725639</nrrefdest>
+            <ibanbfpl/>
+            <platitor>5182140</platitor>
+            <numepb>COM. BANEASA PRIN SARBU AURA</numepb>
+            <sumad>0</sumad>
+            <sumac>143</sumac>
+            <codcontract/>
+            <randcontract/>
+            <codprogram/>
+            <explicatii>TZ32136725640-C/V TX. TIMBRU</explicatii>
+        </cont_misc>
+        <Rulaj_zi>
+            <Sumad>0</Sumad>
+            <Sumac>173</Sumac>
+        </Rulaj_zi>
+        <Total_sume>
+            <Sumad>0</Sumad>
+            <Sumac>518191</Sumac>
+        </Total_sume>
+        <Sold_final>
+            <Sumad>0</Sumad>
+            <Sumac>518191</Sumac>
+        </Sold_final>
+    </cont_ext>
+    <cont_ext>
+        <cont Cod_IBAN="RO04TREZ32121A300530XXXX" Nr_op="2">21A3005305182140</cont>
+        <Sold_precedent>
+            <Sumad>0</Sumad>
+            <Sumac>180138.2</Sumac>
+        </Sold_precedent>
+        <cont_misc>
+            <nrdoc>10000938562</nrdoc>
+            <datadoc>20260525</datadoc>
+            <databan>20260525</databan>
+            <nrrefdest>TZ32136725635</nrrefdest>
+            <ibanbfpl/>
+            <platitor>5182140</platitor>
+            <numepb>COM.BANEASA PRIN SARBU AURA</numepb>
+            <sumad>0</sumad>
+            <sumac>1590</sumac>
+            <codcontract/>
+            <randcontract/>
+            <codprogram/>
+            <explicatii>TZ32136725636-Alte venituri din concesiuni si inchirieri de catre institutiile publi</explicatii>
+        </cont_misc>
+        <cont_misc>
+            <nrdoc>950171859/105783</nrdoc>
+            <datadoc>20260522</datadoc>
+            <databan>20260522</databan>
+            <nrrefdest>950171859/105783</nrrefdest>
+            <ibanbfpl>RO68INGB5001000115118981</ibanbfpl>
+            <platitor>9010105</platitor>
+            <numepb>ORANGE ROMANIA SA</numepb>
+            <sumad>0</sumad>
+            <sumac>6.6</sumac>
+            <codcontract/>
+            <randcontract/>
+            <codprogram/>
+            <explicatii>TZ32136722016-CIF-5182140-SELF POR0006583 202606 103259 20260</explicatii>
+        </cont_misc>
+        <Rulaj_zi>
+            <Sumad>0</Sumad>
+            <Sumac>1596.6</Sumac>
+        </Rulaj_zi>
+        <Total_sume>
+            <Sumad>0</Sumad>
+            <Sumac>181734.8</Sumac>
+        </Total_sume>
+        <Sold_final>
+            <Sumad>0</Sumad>
+            <Sumac>181734.8</Sumac>
+        </Sold_final>
+    </cont_ext>
+    <cont_ext>
+        <cont Cod_IBAN="RO84TREZ32121330208XXXXX" Nr_op="2">21A3308005182140</cont>
+        <Sold_precedent>
+            <Sumad>0</Sumad>
+            <Sumac>181859</Sumac>
+        </Sold_precedent>
+        <cont_misc>
+            <nrdoc>10000938541</nrdoc>
+            <datadoc>20260525</datadoc>
+            <databan>20260525</databan>
+            <nrrefdest>TZ32136725591</nrrefdest>
+            <ibanbfpl/>
+            <platitor>5182140</platitor>
+            <numepb>COM.BANEASA PRIN SARBU AURA</numepb>
+            <sumad>0</sumad>
+            <sumac>310</sumac>
+            <codcontract/>
+            <randcontract/>
+            <codprogram/>
+            <explicatii>TZ32136725592-Venituri din prestari de servicii</explicatii>
+        </cont_misc>
+        <cont_misc>
+            <nrdoc>10000938566</nrdoc>
+            <datadoc>20260525</datadoc>
+            <databan>20260525</databan>
+            <nrrefdest>TZ32136725643</nrrefdest>
+            <ibanbfpl/>
+            <platitor>5182140</platitor>
+            <numepb>COM.BANEASA PRIN SARBU AURA</numepb>
+            <sumad>0</sumad>
+            <sumac>1945</sumac>
+            <codcontract/>
+            <randcontract/>
+            <codprogram/>
+            <explicatii>TZ32136725644-C/V TX SALUBRITATE</explicatii>
+        </cont_misc>
+        <Rulaj_zi>
+            <Sumad>0</Sumad>
+            <Sumac>2255</Sumac>
+        </Rulaj_zi>
+        <Total_sume>
+            <Sumad>0</Sumad>
+            <Sumac>184114</Sumac>
+        </Total_sume>
+        <Sold_final>
+            <Sumad>0</Sumad>
+            <Sumac>184114</Sumac>
+        </Sold_final>
+    </cont_ext>
+    <cont_ext>
+        <cont Cod_IBAN="RO30TREZ32121A350102XXXX" Nr_op="2">21A3501025182140</cont>
+        <Sold_precedent>
+            <Sumad>0</Sumad>
+            <Sumac>97334.45</Sumac>
+        </Sold_precedent>
+        <cont_misc>
+            <nrdoc>50</nrdoc>
+            <datadoc>20260525</datadoc>
+            <databan>20260525</databan>
+            <nrrefdest>TZ32136725625</nrrefdest>
+            <ibanbfpl>RO45TREZ321500901XXXXXXX</ibanbfpl>
+            <platitor>5182140</platitor>
+            <numepb>PRIMARIA BANEASA</numepb>
+            <sumad>0</sumad>
+            <sumac>405</sumac>
+            <codcontract/>
+            <randcontract/>
+            <codprogram/>
+            <explicatii>TZ32136725626-AMENZI CONT UNIC</explicatii>
+        </cont_misc>
+        <cont_misc>
+            <nrdoc>10000938552</nrdoc>
+            <datadoc>20260525</datadoc>
+            <databan>20260525</databan>
+            <nrrefdest>TZ32136725613</nrrefdest>
+            <ibanbfpl/>
+            <platitor>5182140</platitor>
+            <numepb>COM.BANEASA PRIN SARBU AURA</numepb>
+            <sumad>0</sumad>
+            <sumac>1330</sumac>
+            <codcontract/>
+            <randcontract/>
+            <codprogram/>
+            <explicatii>TZ32136725614-Venituri din amenzi si alte sanctiuni aplicate de catre alte instituti</explicatii>
+        </cont_misc>
+        <Rulaj_zi>
+            <Sumad>0</Sumad>
+            <Sumac>1735</Sumac>
+        </Rulaj_zi>
+        <Total_sume>
+            <Sumad>0</Sumad>
+            <Sumac>99069.45</Sumac>
+        </Total_sume>
+        <Sold_final>
+            <Sumad>0</Sumad>
+            <Sumac>99069.45</Sumac>
+        </Sold_final>
+    </cont_ext>
+    <cont_ext>
+        <cont Cod_IBAN="RO45TREZ321500901XXXXXXX" Nr_op="2">5009015182140</cont>
+        <Sold_precedent>
+            <Sumad>0</Sumad>
+            <Sumac>0</Sumac>
+        </Sold_precedent>
+        <cont_misc>
+            <nrdoc>50</nrdoc>
+            <datadoc>20260525</datadoc>
+            <databan>20260525</databan>
+            <nrrefdest>TZ32136725625</nrrefdest>
+            <ibanbfpl>RO30TREZ32121A350102XXXX</ibanbfpl>
+            <platitor>5182140</platitor>
+            <numepb>PRIMARIA BANEASA</numepb>
+            <sumad>405</sumad>
+            <sumac>0</sumac>
+            <codcontract/>
+            <randcontract/>
+            <codprogram/>
+            <explicatii>TZ32136725625-AMENZI CONT UNIC</explicatii>
+        </cont_misc>
+        <cont_misc>
+            <nrdoc>10000938555</nrdoc>
+            <datadoc>20260525</datadoc>
+            <databan>20260525</databan>
+            <nrrefdest>TZ32136725619</nrrefdest>
+            <ibanbfpl/>
+            <platitor>5182140</platitor>
+            <numepb>COM.BANEASA PRIN SARBU AURA</numepb>
+            <sumad>0</sumad>
+            <sumac>405</sumac>
+            <codcontract/>
+            <randcontract/>
+            <codprogram/>
+            <explicatii>TZ32136725620-AMENZI CONT UNIC</explicatii>
+        </cont_misc>
+        <Rulaj_zi>
+            <Sumad>405</Sumad>
+            <Sumac>405</Sumac>
+        </Rulaj_zi>
+        <Total_sume>
+            <Sumad>16514</Sumad>
+            <Sumac>16514</Sumac>
+        </Total_sume>
+        <Sold_final>
+            <Sumad>0</Sumad>
+            <Sumac>0</Sumac>
+        </Sold_final>
+    </cont_ext>
+    <cont_ext>
+        <cont Cod_IBAN="RO30TREZ3215012XXX013266" Nr_op="1">50125182140</cont>
+        <Sold_precedent>
+            <Sumad>0</Sumad>
+            <Sumac>7527.5</Sumac>
+        </Sold_precedent>
+        <cont_misc>
+            <nrdoc>826</nrdoc>
+            <datadoc>20260522</datadoc>
+            <databan>20260522</databan>
+            <nrrefdest>49672882</nrrefdest>
+            <ibanbfpl>RO69CECEC001946005155102</ibanbfpl>
+            <platitor>5182140</platitor>
+            <numepb>PRIMARIA COMUNEI BANEASA</numepb>
+            <sumad>0</sumad>
+            <sumac>1815.25</sumac>
+            <codcontract/>
+            <randcontract/>
+            <codprogram/>
+            <explicatii>TZ32136721918-Cval tranzactii POS decontate in 22052026</explicatii>
+        </cont_misc>
+        <Rulaj_zi>
+            <Sumad>0</Sumad>
+            <Sumac>1815.25</Sumac>
+        </Rulaj_zi>
+        <Total_sume>
+            <Sumad>51267</Sumad>
+            <Sumac>60609.75</Sumac>
+        </Total_sume>
+        <Sold_final>
+            <Sumad>0</Sumad>
+            <Sumac>9342.75</Sumac>
+        </Sold_final>
+    </cont_ext>
+</extras>

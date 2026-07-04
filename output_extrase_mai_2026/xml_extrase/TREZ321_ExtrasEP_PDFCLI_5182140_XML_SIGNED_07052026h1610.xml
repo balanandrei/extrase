@@ -1,0 +1,460 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<extras Data_extras="07-May-2026" Denumire_EP="COMUNA BANEASA" Nr_ext="13">
+    <cont_ext>
+        <cont Cod_IBAN="" Nr_op="1">02A5100001000005182140</cont>
+        <Sold_precedent>
+            <Sumad>0</Sumad>
+            <Sumac>591000</Sumac>
+        </Sold_precedent>
+        <cont_misc>
+            <nrdoc>DB 3267</nrdoc>
+            <datadoc>20260507</datadoc>
+            <databan>20260507</databan>
+            <nrrefdest>TZ32136619511</nrrefdest>
+            <ibanbfpl/>
+            <platitor>5182140</platitor>
+            <numepb>COMUNA BANEASA</numepb>
+            <sumad>0</sumad>
+            <sumac>132000</sumac>
+            <codcontract/>
+            <randcontract/>
+            <codprogram/>
+            <explicatii>TZ32136619512-</explicatii>
+        </cont_misc>
+        <Rulaj_zi>
+            <Sumad>0</Sumad>
+            <Sumac>132000</Sumac>
+        </Rulaj_zi>
+        <Total_sume>
+            <Sumad>0</Sumad>
+            <Sumac>723000</Sumac>
+        </Total_sume>
+        <Sold_final>
+            <Sumad>0</Sumad>
+            <Sumac>723000</Sumac>
+        </Sold_final>
+    </cont_ext>
+    <cont_ext>
+        <cont Cod_IBAN="" Nr_op="1">02A5100002000005182140</cont>
+        <Sold_precedent>
+            <Sumad>0</Sumad>
+            <Sumac>89800</Sumac>
+        </Sold_precedent>
+        <cont_misc>
+            <nrdoc>DB 3267</nrdoc>
+            <datadoc>20260507</datadoc>
+            <databan>20260507</databan>
+            <nrrefdest>TZ32136619539</nrrefdest>
+            <ibanbfpl/>
+            <platitor>5182140</platitor>
+            <numepb>COMUNA BANEASA</numepb>
+            <sumad>0</sumad>
+            <sumac>60000</sumac>
+            <codcontract/>
+            <randcontract/>
+            <codprogram/>
+            <explicatii>TZ32136619540-</explicatii>
+        </cont_misc>
+        <Rulaj_zi>
+            <Sumad>0</Sumad>
+            <Sumac>60000</Sumac>
+        </Rulaj_zi>
+        <Total_sume>
+            <Sumad>15200</Sumad>
+            <Sumac>165000</Sumac>
+        </Total_sume>
+        <Sold_final>
+            <Sumad>0</Sumad>
+            <Sumac>149800</Sumac>
+        </Sold_final>
+    </cont_ext>
+    <cont_ext>
+        <cont Cod_IBAN="" Nr_op="1">02A6600001000005182140</cont>
+        <Sold_precedent>
+            <Sumad>0</Sumad>
+            <Sumac>25300</Sumac>
+        </Sold_precedent>
+        <cont_misc>
+            <nrdoc>DB 3268</nrdoc>
+            <datadoc>20260507</datadoc>
+            <databan>20260507</databan>
+            <nrrefdest>TZ32136619471</nrrefdest>
+            <ibanbfpl/>
+            <platitor>5182140</platitor>
+            <numepb>COMUNA BANEASA</numepb>
+            <sumad>0</sumad>
+            <sumac>6200</sumac>
+            <codcontract/>
+            <randcontract/>
+            <codprogram/>
+            <explicatii>TZ32136619472-</explicatii>
+        </cont_misc>
+        <Rulaj_zi>
+            <Sumad>0</Sumad>
+            <Sumac>6200</Sumac>
+        </Rulaj_zi>
+        <Total_sume>
+            <Sumad>0</Sumad>
+            <Sumac>31500</Sumac>
+        </Total_sume>
+        <Sold_final>
+            <Sumad>0</Sumad>
+            <Sumac>31500</Sumac>
+        </Sold_final>
+    </cont_ext>
+    <cont_ext>
+        <cont Cod_IBAN="" Nr_op="1">02A6700001000005182140</cont>
+        <Sold_precedent>
+            <Sumad>0</Sumad>
+            <Sumac>26500</Sumac>
+        </Sold_precedent>
+        <cont_misc>
+            <nrdoc>DB 3269</nrdoc>
+            <datadoc>20260507</datadoc>
+            <databan>20260507</databan>
+            <nrrefdest>TZ32136619465</nrrefdest>
+            <ibanbfpl/>
+            <platitor>5182140</platitor>
+            <numepb>COMUNA BANEASA</numepb>
+            <sumad>0</sumad>
+            <sumac>6500</sumac>
+            <codcontract/>
+            <randcontract/>
+            <codprogram/>
+            <explicatii>TZ32136619466-</explicatii>
+        </cont_misc>
+        <Rulaj_zi>
+            <Sumad>0</Sumad>
+            <Sumac>6500</Sumac>
+        </Rulaj_zi>
+        <Total_sume>
+            <Sumad>0</Sumad>
+            <Sumac>33000</Sumac>
+        </Total_sume>
+        <Sold_final>
+            <Sumad>0</Sumad>
+            <Sumac>33000</Sumac>
+        </Sold_final>
+    </cont_ext>
+    <cont_ext>
+        <cont Cod_IBAN="" Nr_op="1">02A6800001000005182140</cont>
+        <Sold_precedent>
+            <Sumad>0</Sumad>
+            <Sumac>970000</Sumac>
+        </Sold_precedent>
+        <cont_misc>
+            <nrdoc>DB 3270</nrdoc>
+            <datadoc>20260507</datadoc>
+            <databan>20260507</databan>
+            <nrrefdest>TZ32136619449</nrrefdest>
+            <ibanbfpl/>
+            <platitor>5182140</platitor>
+            <numepb>COMUNA BANEASA</numepb>
+            <sumad>0</sumad>
+            <sumac>230000</sumac>
+            <codcontract/>
+            <randcontract/>
+            <codprogram/>
+            <explicatii>TZ32136619450-</explicatii>
+        </cont_misc>
+        <Rulaj_zi>
+            <Sumad>0</Sumad>
+            <Sumac>230000</Sumac>
+        </Rulaj_zi>
+        <Total_sume>
+            <Sumad>0</Sumad>
+            <Sumac>1200000</Sumac>
+        </Total_sume>
+        <Sold_final>
+            <Sumad>0</Sumad>
+            <Sumac>1200000</Sumac>
+        </Sold_final>
+    </cont_ext>
+    <cont_ext>
+        <cont Cod_IBAN="" Nr_op="1">02A6800005700005182140</cont>
+        <Sold_precedent>
+            <Sumad>0</Sumad>
+            <Sumac>1227000</Sumac>
+        </Sold_precedent>
+        <cont_misc>
+            <nrdoc>DB 3270</nrdoc>
+            <datadoc>20260507</datadoc>
+            <databan>20260507</databan>
+            <nrrefdest>TZ32136619461</nrrefdest>
+            <ibanbfpl/>
+            <platitor>5182140</platitor>
+            <numepb>COMUNA BANEASA</numepb>
+            <sumad>0</sumad>
+            <sumac>320000</sumac>
+            <codcontract/>
+            <randcontract/>
+            <codprogram/>
+            <explicatii>TZ32136619462-</explicatii>
+        </cont_misc>
+        <Rulaj_zi>
+            <Sumad>0</Sumad>
+            <Sumac>320000</Sumac>
+        </Rulaj_zi>
+        <Total_sume>
+            <Sumad>20000</Sumad>
+            <Sumac>1567000</Sumac>
+        </Total_sume>
+        <Sold_final>
+            <Sumad>0</Sumad>
+            <Sumac>1547000</Sumac>
+        </Sold_final>
+    </cont_ext>
+    <cont_ext>
+        <cont Cod_IBAN="" Nr_op="1">02A7000001000005182140</cont>
+        <Sold_precedent>
+            <Sumad>0</Sumad>
+            <Sumac>37000</Sumac>
+        </Sold_precedent>
+        <cont_misc>
+            <nrdoc>DB 3274</nrdoc>
+            <datadoc>20260507</datadoc>
+            <databan>20260507</databan>
+            <nrrefdest>TZ32136619413</nrrefdest>
+            <ibanbfpl/>
+            <platitor>5182140</platitor>
+            <numepb>COMUNA BANEASA</numepb>
+            <sumad>1580</sumad>
+            <sumac>0</sumac>
+            <codcontract/>
+            <randcontract/>
+            <codprogram/>
+            <explicatii>TZ32136619413-</explicatii>
+        </cont_misc>
+        <Rulaj_zi>
+            <Sumad>1580</Sumad>
+            <Sumac>0</Sumac>
+        </Rulaj_zi>
+        <Total_sume>
+            <Sumad>1580</Sumad>
+            <Sumac>37000</Sumac>
+        </Total_sume>
+        <Sold_final>
+            <Sumad>0</Sumad>
+            <Sumac>35420</Sumac>
+        </Sold_final>
+    </cont_ext>
+    <cont_ext>
+        <cont Cod_IBAN="" Nr_op="1">02A7000002000005182140</cont>
+        <Sold_precedent>
+            <Sumad>0</Sumad>
+            <Sumac>213000</Sumac>
+        </Sold_precedent>
+        <cont_misc>
+            <nrdoc>DB 3271</nrdoc>
+            <datadoc>20260507</datadoc>
+            <databan>20260507</databan>
+            <nrrefdest>TZ32136619441</nrrefdest>
+            <ibanbfpl/>
+            <platitor>5182140</platitor>
+            <numepb>COMUNA BANEASA</numepb>
+            <sumad>0</sumad>
+            <sumac>70000</sumac>
+            <codcontract/>
+            <randcontract/>
+            <codprogram/>
+            <explicatii>TZ32136619442-</explicatii>
+        </cont_misc>
+        <Rulaj_zi>
+            <Sumad>0</Sumad>
+            <Sumac>70000</Sumac>
+        </Rulaj_zi>
+        <Total_sume>
+            <Sumad>17000</Sumad>
+            <Sumac>300000</Sumac>
+        </Total_sume>
+        <Sold_final>
+            <Sumad>0</Sumad>
+            <Sumac>283000</Sumac>
+        </Sold_final>
+    </cont_ext>
+    <cont_ext>
+        <cont Cod_IBAN="" Nr_op="1">02A7400002000005182140</cont>
+        <Sold_precedent>
+            <Sumad>0</Sumad>
+            <Sumac>301000</Sumac>
+        </Sold_precedent>
+        <cont_misc>
+            <nrdoc>DB 3272</nrdoc>
+            <datadoc>20260507</datadoc>
+            <databan>20260507</databan>
+            <nrrefdest>TZ32136619435</nrrefdest>
+            <ibanbfpl/>
+            <platitor>5182140</platitor>
+            <numepb>COMUNA BANEASA</numepb>
+            <sumad>0</sumad>
+            <sumac>65000</sumac>
+            <codcontract/>
+            <randcontract/>
+            <codprogram/>
+            <explicatii>TZ32136619436-</explicatii>
+        </cont_misc>
+        <Rulaj_zi>
+            <Sumad>0</Sumad>
+            <Sumac>65000</Sumac>
+        </Rulaj_zi>
+        <Total_sume>
+            <Sumad>0</Sumad>
+            <Sumac>366000</Sumac>
+        </Total_sume>
+        <Sold_final>
+            <Sumad>0</Sumad>
+            <Sumac>366000</Sumac>
+        </Sold_final>
+    </cont_ext>
+    <cont_ext>
+        <cont Cod_IBAN="" Nr_op="1">02A8400002000005182140</cont>
+        <Sold_precedent>
+            <Sumad>0</Sumad>
+            <Sumac>16500</Sumac>
+        </Sold_precedent>
+        <cont_misc>
+            <nrdoc>DB 3273</nrdoc>
+            <datadoc>20260507</datadoc>
+            <databan>20260507</databan>
+            <nrrefdest>TZ32136619417</nrrefdest>
+            <ibanbfpl/>
+            <platitor>5182140</platitor>
+            <numepb>COMUNA BANEASA</numepb>
+            <sumad>0</sumad>
+            <sumac>10000</sumac>
+            <codcontract/>
+            <randcontract/>
+            <codprogram/>
+            <explicatii>TZ32136619418-</explicatii>
+        </cont_misc>
+        <Rulaj_zi>
+            <Sumad>0</Sumad>
+            <Sumac>10000</Sumac>
+        </Rulaj_zi>
+        <Total_sume>
+            <Sumad>0</Sumad>
+            <Sumac>26500</Sumac>
+        </Total_sume>
+        <Sold_final>
+            <Sumad>0</Sumad>
+            <Sumac>26500</Sumac>
+        </Sold_final>
+    </cont_ext>
+    <cont_ext>
+        <cont Cod_IBAN="RO05TREZ32121030218XXXXX" Nr_op="2">21A0318005182140</cont>
+        <Sold_precedent>
+            <Sumad>0</Sumad>
+            <Sumac>12183.5</Sumac>
+        </Sold_precedent>
+        <cont_misc>
+            <nrdoc>transf bl</nrdoc>
+            <datadoc>20260506</datadoc>
+            <databan>20260506</databan>
+            <nrrefdest>TZ702185487575</nrrefdest>
+            <ibanbfpl>RO62TREZ70220030118XXXXX</ibanbfpl>
+            <platitor>5182140</platitor>
+            <numepb>Comuna Baneasa</numepb>
+            <sumad>0</sumad>
+            <sumac>204</sumac>
+            <codcontract/>
+            <randcontract/>
+            <codprogram/>
+            <explicatii>TZ32136618190-virare 50  transfer prorprietati imobiliare CUI notar 51068175</explicatii>
+        </cont_misc>
+        <cont_misc>
+            <nrdoc>transf bl</nrdoc>
+            <datadoc>20260506</datadoc>
+            <databan>20260506</databan>
+            <nrrefdest>TZ702185488759</nrrefdest>
+            <ibanbfpl>RO62TREZ70220030118XXXXX</ibanbfpl>
+            <platitor>5182140</platitor>
+            <numepb>Comuna Baneasa</numepb>
+            <sumad>0</sumad>
+            <sumac>506.5</sumac>
+            <codcontract/>
+            <randcontract/>
+            <codprogram/>
+            <explicatii>TZ32136618196-virare 50  transfer prorprietati imobiliare CUI notar 45940309</explicatii>
+        </cont_misc>
+        <Rulaj_zi>
+            <Sumad>0</Sumad>
+            <Sumac>710.5</Sumac>
+        </Rulaj_zi>
+        <Total_sume>
+            <Sumad>0</Sumad>
+            <Sumac>12894</Sumac>
+        </Total_sume>
+        <Sold_final>
+            <Sumad>0</Sumad>
+            <Sumac>12894</Sumac>
+        </Sold_final>
+    </cont_ext>
+    <cont_ext>
+        <cont Cod_IBAN="RO28TREZ32121A040500XXXX" Nr_op="1">21A0405005182140</cont>
+        <Sold_precedent>
+            <Sumad>0</Sumad>
+            <Sumac>259367.39</Sumac>
+        </Sold_precedent>
+        <cont_misc>
+            <nrdoc>179</nrdoc>
+            <datadoc>20260507</datadoc>
+            <databan>20260507</databan>
+            <nrrefdest>TZ32136621407</nrrefdest>
+            <ibanbfpl>RO07TREZ321507507X010597</ibanbfpl>
+            <platitor>4286895</platitor>
+            <numepb>AJFP GIURGIU</numepb>
+            <sumad>0</sumad>
+            <sumac>66885.66</sumac>
+            <codcontract/>
+            <randcontract/>
+            <codprogram/>
+            <explicatii>TZ32136621408-Sume din cota de 6 la suta aloc. din Fondul la disp CJ GR aprilie 2026</explicatii>
+        </cont_misc>
+        <Rulaj_zi>
+            <Sumad>0</Sumad>
+            <Sumac>66885.66</Sumac>
+        </Rulaj_zi>
+        <Total_sume>
+            <Sumad>0</Sumad>
+            <Sumac>326253.05</Sumac>
+        </Total_sume>
+        <Sold_final>
+            <Sumad>0</Sumad>
+            <Sumac>326253.05</Sumac>
+        </Sold_final>
+    </cont_ext>
+    <cont_ext>
+        <cont Cod_IBAN="RO30TREZ3215012XXX013266" Nr_op="1">50125182140</cont>
+        <Sold_precedent>
+            <Sumad>0</Sumad>
+            <Sumac>8104.5</Sumac>
+        </Sold_precedent>
+        <cont_misc>
+            <nrdoc>851</nrdoc>
+            <datadoc>20260506</datadoc>
+            <databan>20260506</databan>
+            <nrrefdest>49442673</nrrefdest>
+            <ibanbfpl>RO69CECEC001946005155102</ibanbfpl>
+            <platitor>5182140</platitor>
+            <numepb>PRIMARIA COMUNEI BANEASA</numepb>
+            <sumad>0</sumad>
+            <sumac>323</sumac>
+            <codcontract/>
+            <randcontract/>
+            <codprogram/>
+            <explicatii>TZ32136618474-Cval tranzactii POS decontate in 06052026</explicatii>
+        </cont_misc>
+        <Rulaj_zi>
+            <Sumad>0</Sumad>
+            <Sumac>323</Sumac>
+        </Rulaj_zi>
+        <Total_sume>
+            <Sumad>41081</Sumad>
+            <Sumac>49508.5</Sumac>
+        </Total_sume>
+        <Sold_final>
+            <Sumad>0</Sumad>
+            <Sumac>8427.5</Sumac>
+        </Sold_final>
+    </cont_ext>
+</extras>

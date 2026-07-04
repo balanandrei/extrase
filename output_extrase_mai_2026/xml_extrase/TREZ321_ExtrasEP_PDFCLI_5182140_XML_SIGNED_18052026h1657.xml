@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<extras Data_extras="18-May-2026" Denumire_EP="COMUNA BANEASA" Nr_ext="2">
+    <cont_ext>
+        <cont Cod_IBAN="RO87TREZ3212116020201XXX" Nr_op="1">21A1602015182140</cont>
+        <Sold_precedent>
+            <Sumad>0</Sumad>
+            <Sumac>218172.35</Sumac>
+        </Sold_precedent>
+        <cont_misc>
+            <nrdoc>1</nrdoc>
+            <datadoc>20260514</datadoc>
+            <databan>20260514</databan>
+            <nrrefdest>260514S932924458</nrrefdest>
+            <ibanbfpl>RO26RNCB0002070676090003</ibanbfpl>
+            <platitor>2761125296723</platitor>
+            <numepb>Dinu Tatiana</numepb>
+            <sumad>0</sumad>
+            <sumac>4.49</sumac>
+            <codcontract/>
+            <randcontract/>
+            <codprogram/>
+            <explicatii>TZ32136680162-60000000000008796040621 8796/04-JUN-21/1699 ROL CNP/CUI beneficiar: 5182140</explicatii>
+        </cont_misc>
+        <Rulaj_zi>
+            <Sumad>0</Sumad>
+            <Sumac>4.49</Sumac>
+        </Rulaj_zi>
+        <Total_sume>
+            <Sumad>0</Sumad>
+            <Sumac>218176.84</Sumac>
+        </Total_sume>
+        <Sold_final>
+            <Sumad>0</Sumad>
+            <Sumac>218176.84</Sumac>
+        </Sold_final>
+    </cont_ext>
+    <cont_ext>
+        <cont Cod_IBAN="RO04TREZ32121A300530XXXX" Nr_op="1">21A3005305182140</cont>
+        <Sold_precedent>
+            <Sumad>0</Sumad>
+            <Sumac>146415</Sumac>
+        </Sold_precedent>
+        <cont_misc>
+            <nrdoc>949400343/102765</nrdoc>
+            <datadoc>20260515</datadoc>
+            <databan>20260515</databan>
+            <nrrefdest>949400343/102765</nrrefdest>
+            <ibanbfpl>RO68INGB5001000115118981</ibanbfpl>
+            <platitor>9010105</platitor>
+            <numepb>ORANGE ROMANIA SA</numepb>
+            <sumad>0</sumad>
+            <sumac>6.6</sumac>
+            <codcontract/>
+            <randcontract/>
+            <codprogram/>
+            <explicatii>TZ32136680490-CIF-5182140-SELF POR0006475 202601 103259 20260</explicatii>
+        </cont_misc>
+        <Rulaj_zi>
+            <Sumad>0</Sumad>
+            <Sumac>6.6</Sumac>
+        </Rulaj_zi>
+        <Total_sume>
+            <Sumad>0</Sumad>
+            <Sumac>146421.6</Sumac>
+        </Total_sume>
+        <Sold_final>
+            <Sumad>0</Sumad>
+            <Sumac>146421.6</Sumac>
+        </Sold_final>
+    </cont_ext>
+</extras>

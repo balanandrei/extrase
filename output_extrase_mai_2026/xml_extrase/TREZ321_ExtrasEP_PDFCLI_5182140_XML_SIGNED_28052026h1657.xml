@@ -1,0 +1,567 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<extras Data_extras="28-May-2026" Denumire_EP="COMUNA BANEASA" Nr_ext="6">
+    <cont_ext>
+        <cont Cod_IBAN="" Nr_op="1">02A7000002000005182140</cont>
+        <Sold_precedent>
+            <Sumad>0</Sumad>
+            <Sumac>283000</Sumac>
+        </Sold_precedent>
+        <cont_misc>
+            <nrdoc>db3848</nrdoc>
+            <datadoc>20260528</datadoc>
+            <databan>20260528</databan>
+            <nrrefdest>TZ32136799495</nrrefdest>
+            <ibanbfpl/>
+            <platitor>5182140</platitor>
+            <numepb>COMUNA BANEASA</numepb>
+            <sumad>0</sumad>
+            <sumac>14000</sumac>
+            <codcontract/>
+            <randcontract/>
+            <codprogram/>
+            <explicatii>TZ32136799496-</explicatii>
+        </cont_misc>
+        <Rulaj_zi>
+            <Sumad>0</Sumad>
+            <Sumac>14000</Sumac>
+        </Rulaj_zi>
+        <Total_sume>
+            <Sumad>17000</Sumad>
+            <Sumac>314000</Sumac>
+        </Total_sume>
+        <Sold_final>
+            <Sumad>0</Sumad>
+            <Sumac>297000</Sumac>
+        </Sold_final>
+    </cont_ext>
+    <cont_ext>
+        <cont Cod_IBAN="RO45TREZ24A510103200108X" Nr_op="1">24A5101032001085182140</cont>
+        <Sold_precedent>
+            <Sumad>29962.15</Sumad>
+            <Sumac>0</Sumac>
+        </Sold_precedent>
+        <cont_misc>
+            <nrdoc>181</nrdoc>
+            <datadoc>20260528</datadoc>
+            <databan>20260528</databan>
+            <nrrefdest>TZ32136799591</nrrefdest>
+            <ibanbfpl>RO12TREZ7005069XXX001016</ibanbfpl>
+            <platitor>5888716</platitor>
+            <numepb>DIGI ROMANIA SA</numepb>
+            <sumad>2588.74</sumad>
+            <sumac>0</sumac>
+            <codcontract>AAB2E3SHBE9</codcontract>
+            <randcontract>AAB</randcontract>
+            <codprogram>0000000000</codprogram>
+            <explicatii>TZ32136799591-F.FDB26 41537025/05.26/C.13141793/INTERNET SI TEL PRIMARIE/ORD.8.8/SF</explicatii>
+        </cont_misc>
+        <Rulaj_zi>
+            <Sumad>2588.74</Sumad>
+            <Sumac>0</Sumac>
+        </Rulaj_zi>
+        <Total_sume>
+            <Sumad>32550.89</Sumad>
+            <Sumac>0</Sumac>
+        </Total_sume>
+        <Sold_final>
+            <Sumad>32550.89</Sumad>
+            <Sumac>0</Sumac>
+        </Sold_final>
+    </cont_ext>
+    <cont_ext>
+        <cont Cod_IBAN="RO09TREZ24A510103200130X" Nr_op="17">24A5101032001305182140</cont>
+        <Sold_precedent>
+            <Sumad>28465.18</Sumad>
+            <Sumac>0</Sumac>
+        </Sold_precedent>
+        <cont_misc>
+            <nrdoc>192</nrdoc>
+            <datadoc>20260528</datadoc>
+            <databan>20260528</databan>
+            <nrrefdest>TZ32136799613</nrrefdest>
+            <ibanbfpl>RO33TREZ7055069XXX001880</ibanbfpl>
+            <platitor>5425363</platitor>
+            <numepb>CALMAR INTERNATIONAL SRL</numepb>
+            <sumad>484</sumad>
+            <sumac>0</sumac>
+            <codcontract>AAB2GH2AE5B</codcontract>
+            <randcontract>AAB</randcontract>
+            <codprogram>0000000000</codprogram>
+            <explicatii>TZ32136799613-F.7813/26/CTR.3573/05.25/PREST SERV SERVICE LUNAR IMPR/ORD.48.1/SF</explicatii>
+        </cont_misc>
+        <cont_misc>
+            <nrdoc>193</nrdoc>
+            <datadoc>20260528</datadoc>
+            <databan>20260528</databan>
+            <nrrefdest>TZ32136799615</nrrefdest>
+            <ibanbfpl>RO33TREZ7055069XXX001880</ibanbfpl>
+            <platitor>5425363</platitor>
+            <numepb>CALMAR INTERNATIONAL SRL</numepb>
+            <sumad>223.85</sumad>
+            <sumac>0</sumac>
+            <codcontract>AAB2GH2AE5B</codcontract>
+            <randcontract>AAB</randcontract>
+            <codprogram>0000000000</codprogram>
+            <explicatii>TZ32136799615-F.7814/26/CTR.3573/05.25/PREST SERV SERVICE LUNAR IMPR/ORD.48.2/SF</explicatii>
+        </cont_misc>
+        <cont_misc>
+            <nrdoc>196</nrdoc>
+            <datadoc>20260528</datadoc>
+            <databan>20260528</databan>
+            <nrrefdest>TZ32136799621</nrrefdest>
+            <ibanbfpl>RO33TREZ7055069XXX001880</ibanbfpl>
+            <platitor>5425363</platitor>
+            <numepb>CALMAR INTERNATIONAL SRL</numepb>
+            <sumad>1016.4</sumad>
+            <sumac>0</sumac>
+            <codcontract>AAB2GH2AE5B</codcontract>
+            <randcontract>AAB</randcontract>
+            <codprogram>0000000000</codprogram>
+            <explicatii>TZ32136799621-F.7833/26/CTR.3573/05.25/PREST SERV SERVICE LUNAR IMPR/ORD.48.5/SF</explicatii>
+        </cont_misc>
+        <cont_misc>
+            <nrdoc>198</nrdoc>
+            <datadoc>20260528</datadoc>
+            <databan>20260528</databan>
+            <nrrefdest>TZ32136799625</nrrefdest>
+            <ibanbfpl>RO33TREZ7055069XXX001880</ibanbfpl>
+            <platitor>5425363</platitor>
+            <numepb>CALMAR INTERNATIONAL SRL</numepb>
+            <sumad>223.85</sumad>
+            <sumac>0</sumac>
+            <codcontract>AAB2GH2AE5B</codcontract>
+            <randcontract>AAB</randcontract>
+            <codprogram>0000000000</codprogram>
+            <explicatii>TZ32136799625-F.7835/26/CTR.3573/05.25/PREST SERV SERVICE LUNAR IMPR/ORD.48.7/SF</explicatii>
+        </cont_misc>
+        <cont_misc>
+            <nrdoc>200</nrdoc>
+            <datadoc>20260528</datadoc>
+            <databan>20260528</databan>
+            <nrrefdest>TZ32136799629</nrrefdest>
+            <ibanbfpl>RO33TREZ7055069XXX001880</ibanbfpl>
+            <platitor>5425363</platitor>
+            <numepb>CALMAR INTERNATIONAL SRL</numepb>
+            <sumad>223.85</sumad>
+            <sumac>0</sumac>
+            <codcontract>AAB2GH2AE5B</codcontract>
+            <randcontract>AAB</randcontract>
+            <codprogram>0000000000</codprogram>
+            <explicatii>TZ32136799629-F.7848/26/CTR.3573/05.25/PREST SERV SERVICE LUNAR IMPR/ORD.48.9/SF</explicatii>
+        </cont_misc>
+        <cont_misc>
+            <nrdoc>202</nrdoc>
+            <datadoc>20260528</datadoc>
+            <databan>20260528</databan>
+            <nrrefdest>TZ32136799633</nrrefdest>
+            <ibanbfpl>RO12TREZ5765069XXX002302</ibanbfpl>
+            <platitor>13390096</platitor>
+            <numepb>ADI COM SOFT SRL</numepb>
+            <sumad>726</sumad>
+            <sumac>0</sumac>
+            <codcontract>AAB2GH2AE5B</codcontract>
+            <randcontract>AAB</randcontract>
+            <codprogram>0000000000</codprogram>
+            <explicatii>TZ32136799633-F.517960/05.26/ASISTENTA SOFTWARE PROG INFO ITL/R.A./ORD.30.4/SF</explicatii>
+        </cont_misc>
+        <cont_misc>
+            <nrdoc>204</nrdoc>
+            <datadoc>20260528</datadoc>
+            <databan>20260528</databan>
+            <nrrefdest>TZ32136799637</nrrefdest>
+            <ibanbfpl>RO90TREZ7035069XXX022997</ibanbfpl>
+            <platitor>47150314</platitor>
+            <numepb>SMART CITY SECURITY SRL</numepb>
+            <sumad>3630</sumad>
+            <sumac>0</sumac>
+            <codcontract>AAB2GH2AE5B</codcontract>
+            <randcontract>AAB</randcontract>
+            <codprogram>0000000000</codprogram>
+            <explicatii>TZ32136799637-F.SCS 0303/CTR.1372/27.02.2026/MENTENANTA CAM.VIDEO/ORD.49.1/SF</explicatii>
+        </cont_misc>
+        <cont_misc>
+            <nrdoc>206</nrdoc>
+            <datadoc>20260528</datadoc>
+            <databan>20260528</databan>
+            <nrrefdest>TZ32136799641</nrrefdest>
+            <ibanbfpl>RO08TREZ3215069XXX001985</ibanbfpl>
+            <platitor>18504469</platitor>
+            <numepb>SC PRO IT GRUP SRL</numepb>
+            <sumad>1210</sumad>
+            <sumac>0</sumac>
+            <codcontract>AAB2GH2AE5B</codcontract>
+            <randcontract>AAB</randcontract>
+            <codprogram>0000000000</codprogram>
+            <explicatii>TZ32136799641-F.8606/01.26/PREST SERV REVIZIE TEHNICA/ORD.24.2/SF</explicatii>
+        </cont_misc>
+        <cont_misc>
+            <nrdoc>208</nrdoc>
+            <datadoc>20260528</datadoc>
+            <databan>20260528</databan>
+            <nrrefdest>TZ32136799645</nrrefdest>
+            <ibanbfpl>RO08TREZ3215069XXX001985</ibanbfpl>
+            <platitor>18504469</platitor>
+            <numepb>SC PRO IT GRUP SRL</numepb>
+            <sumad>1650</sumad>
+            <sumac>0</sumac>
+            <codcontract>AAB2GH2AE5B</codcontract>
+            <randcontract>AAB</randcontract>
+            <codprogram>0000000000</codprogram>
+            <explicatii>TZ32136799645-F.8668/03.26/PREST SERV REVIZIE TEHNICA/ORD.24.4/SF</explicatii>
+        </cont_misc>
+        <cont_misc>
+            <nrdoc>207</nrdoc>
+            <datadoc>20260528</datadoc>
+            <databan>20260528</databan>
+            <nrrefdest>TZ32136799643</nrrefdest>
+            <ibanbfpl>RO08TREZ3215069XXX001985</ibanbfpl>
+            <platitor>18504469</platitor>
+            <numepb>SC PRO IT GRUP SRL</numepb>
+            <sumad>1210</sumad>
+            <sumac>0</sumac>
+            <codcontract>AAB2GH2AE5B</codcontract>
+            <randcontract>AAB</randcontract>
+            <codprogram>0000000000</codprogram>
+            <explicatii>TZ32136799643-F.8633/02.26/PREST SERV REVIZIE TEHNICA/ORD.24.3/SF</explicatii>
+        </cont_misc>
+        <cont_misc>
+            <nrdoc>205</nrdoc>
+            <datadoc>20260528</datadoc>
+            <databan>20260528</databan>
+            <nrrefdest>TZ32136799639</nrrefdest>
+            <ibanbfpl>RO47TREZ3215069XXX004290</ibanbfpl>
+            <platitor>17080349</platitor>
+            <numepb>NETDESIGN SRL</numepb>
+            <sumad>2359.5</sumad>
+            <sumac>0</sumac>
+            <codcontract>AAB2GH2AE5B</codcontract>
+            <randcontract>AAB</randcontract>
+            <codprogram>0000000000</codprogram>
+            <explicatii>TZ32136799639-F.NET704/04.26/PREST.SERV. HOSTING SI ADMIN.SITE/ORD.50.1/SF</explicatii>
+        </cont_misc>
+        <cont_misc>
+            <nrdoc>203</nrdoc>
+            <datadoc>20260528</datadoc>
+            <databan>20260528</databan>
+            <nrrefdest>TZ32136799635</nrrefdest>
+            <ibanbfpl>RO56TREZ4915069XXX001348</ibanbfpl>
+            <platitor>2040729</platitor>
+            <numepb>CENTR.TERIT.CALCUL ELECTR.S.A</numepb>
+            <sumad>154.24</sumad>
+            <sumac>0</sumac>
+            <codcontract>AAB2GH2AE5B</codcontract>
+            <randcontract>AAB</randcontract>
+            <codprogram>0000000000</codprogram>
+            <explicatii>TZ32136799635-F.266256/04.26/PREST.SERV./LEGIS PRIMARIE/ORD.16.4/SF</explicatii>
+        </cont_misc>
+        <cont_misc>
+            <nrdoc>201</nrdoc>
+            <datadoc>20260528</datadoc>
+            <databan>20260528</databan>
+            <nrrefdest>TZ32136799631</nrrefdest>
+            <ibanbfpl>RO12TREZ5765069XXX002302</ibanbfpl>
+            <platitor>13390096</platitor>
+            <numepb>ADI COM SOFT SRL</numepb>
+            <sumad>726</sumad>
+            <sumac>0</sumac>
+            <codcontract>AAB2GH2AE5B</codcontract>
+            <randcontract>AAB</randcontract>
+            <codprogram>0000000000</codprogram>
+            <explicatii>TZ32136799631-F.514034/04.26/ASISTENTA SOFTWARE PROG INFO ITL/R.A./ORD.30.3/SF</explicatii>
+        </cont_misc>
+        <cont_misc>
+            <nrdoc>199</nrdoc>
+            <datadoc>20260528</datadoc>
+            <databan>20260528</databan>
+            <nrrefdest>TZ32136799627</nrrefdest>
+            <ibanbfpl>RO33TREZ7055069XXX001880</ibanbfpl>
+            <platitor>5425363</platitor>
+            <numepb>CALMAR INTERNATIONAL SRL</numepb>
+            <sumad>484</sumad>
+            <sumac>0</sumac>
+            <codcontract>AAB2GH2AE5B</codcontract>
+            <randcontract>AAB</randcontract>
+            <codprogram>0000000000</codprogram>
+            <explicatii>TZ32136799627-F.7847/26/CTR.3573/05.25/PREST SERV SERVICE LUNAR IMPR/ORD.48.8/SF</explicatii>
+        </cont_misc>
+        <cont_misc>
+            <nrdoc>197</nrdoc>
+            <datadoc>20260528</datadoc>
+            <databan>20260528</databan>
+            <nrrefdest>TZ32136799623</nrrefdest>
+            <ibanbfpl>RO33TREZ7055069XXX001880</ibanbfpl>
+            <platitor>5425363</platitor>
+            <numepb>CALMAR INTERNATIONAL SRL</numepb>
+            <sumad>484</sumad>
+            <sumac>0</sumac>
+            <codcontract>AAB2GH2AE5B</codcontract>
+            <randcontract>AAB</randcontract>
+            <codprogram>0000000000</codprogram>
+            <explicatii>TZ32136799623-F.7834/26/CTR.3573/05.25/PREST SERV SERVICE LUNAR IMPR/ORD.48.6/SF</explicatii>
+        </cont_misc>
+        <cont_misc>
+            <nrdoc>194</nrdoc>
+            <datadoc>20260528</datadoc>
+            <databan>20260528</databan>
+            <nrrefdest>TZ32136799617</nrrefdest>
+            <ibanbfpl>RO33TREZ7055069XXX001880</ibanbfpl>
+            <platitor>5425363</platitor>
+            <numepb>CALMAR INTERNATIONAL SRL</numepb>
+            <sumad>484</sumad>
+            <sumac>0</sumac>
+            <codcontract>AAB2GH2AE5B</codcontract>
+            <randcontract>AAB</randcontract>
+            <codprogram>0000000000</codprogram>
+            <explicatii>TZ32136799617-F.7823/26/CTR.3573/05.25/PREST SERV SERVICE LUNAR IMPR/ORD.48.3/SF</explicatii>
+        </cont_misc>
+        <cont_misc>
+            <nrdoc>195</nrdoc>
+            <datadoc>20260528</datadoc>
+            <databan>20260528</databan>
+            <nrrefdest>TZ32136799619</nrrefdest>
+            <ibanbfpl>RO33TREZ7055069XXX001880</ibanbfpl>
+            <platitor>5425363</platitor>
+            <numepb>CALMAR INTERNATIONAL SRL</numepb>
+            <sumad>223.85</sumad>
+            <sumac>0</sumac>
+            <codcontract>AAB2GH2AE5B</codcontract>
+            <randcontract>AAB</randcontract>
+            <codprogram>0000000000</codprogram>
+            <explicatii>TZ32136799619-F.7824/26/CTR.3573/05.25/PREST SERV SERVICE LUNAR IMPR/ORD.48.4/SF</explicatii>
+        </cont_misc>
+        <Rulaj_zi>
+            <Sumad>15513.54</Sumad>
+            <Sumac>0</Sumac>
+        </Rulaj_zi>
+        <Total_sume>
+            <Sumad>43978.72</Sumad>
+            <Sumac>0</Sumac>
+        </Total_sume>
+        <Sold_final>
+            <Sumad>43978.72</Sumad>
+            <Sumac>0</Sumac>
+        </Sold_final>
+    </cont_ext>
+    <cont_ext>
+        <cont Cod_IBAN="RO05TREZ24A510103201900X" Nr_op="2">24A5101032019005182140</cont>
+        <Sold_precedent>
+            <Sumad>7956</Sumad>
+            <Sumac>0</Sumac>
+        </Sold_precedent>
+        <cont_misc>
+            <nrdoc>182</nrdoc>
+            <datadoc>20260528</datadoc>
+            <databan>20260528</databan>
+            <nrrefdest>TZ32136799593</nrrefdest>
+            <ibanbfpl>RO58RZBR0000060003527142</ibanbfpl>
+            <platitor>15593968</platitor>
+            <numepb>ADI CONSORT. ZONAL TOPOLOVENI</numepb>
+            <sumad>3978</sumad>
+            <sumac>0</sumac>
+            <codcontract>AAB2SE6AKRH</codcontract>
+            <randcontract>AAB</randcontract>
+            <codprogram>0000000000</codprogram>
+            <explicatii>TZ32136799593-CV.F.191/04.2026/COTIZATIE /HCL144/23.11.23/ORD.25.2/SF</explicatii>
+        </cont_misc>
+        <cont_misc>
+            <nrdoc>183</nrdoc>
+            <datadoc>20260528</datadoc>
+            <databan>20260528</databan>
+            <nrrefdest>TZ32136799595</nrrefdest>
+            <ibanbfpl>RO58RZBR0000060003527142</ibanbfpl>
+            <platitor>15593968</platitor>
+            <numepb>ADI CONSORT. ZONAL TOPOLOVENI</numepb>
+            <sumad>3978</sumad>
+            <sumac>0</sumac>
+            <codcontract>AAB2SE6AKRH</codcontract>
+            <randcontract>AAB</randcontract>
+            <codprogram>0000000000</codprogram>
+            <explicatii>TZ32136799595-CV.F.244/05.2026/COTIZATIE /HCL144/23.11.23/ORD.25.3/SF</explicatii>
+        </cont_misc>
+        <Rulaj_zi>
+            <Sumad>7956</Sumad>
+            <Sumac>0</Sumac>
+        </Rulaj_zi>
+        <Total_sume>
+            <Sumad>15912</Sumad>
+            <Sumac>0</Sumac>
+        </Total_sume>
+        <Sold_final>
+            <Sumad>15912</Sumad>
+            <Sumac>0</Sumac>
+        </Sold_final>
+    </cont_ext>
+    <cont_ext>
+        <cont Cod_IBAN="RO10TREZ24A700600200130X" Nr_op="8">24A7006002001305182140</cont>
+        <Sold_precedent>
+            <Sumad>38423.72</Sumad>
+            <Sumac>0</Sumac>
+        </Sold_precedent>
+        <cont_misc>
+            <nrdoc>184</nrdoc>
+            <datadoc>20260528</datadoc>
+            <databan>20260528</databan>
+            <nrrefdest>TZ32136799597</nrrefdest>
+            <ibanbfpl>RO21TREZ3215069XXX006601</ibanbfpl>
+            <platitor>30330604</platitor>
+            <numepb>ALADIL PRESTIGE SRL</numepb>
+            <sumad>3449.99</sumad>
+            <sumac>0</sumac>
+            <codcontract>AAB2SECE55F</codcontract>
+            <randcontract>AAB</randcontract>
+            <codprogram>0000000000</codprogram>
+            <explicatii>TZ32136799597-F.362/CTR.14/6335/24/RF6230/24/PREST.SERV.RSVTI ISCIR/ORD.47.1/SF</explicatii>
+        </cont_misc>
+        <cont_misc>
+            <nrdoc>185</nrdoc>
+            <datadoc>20260528</datadoc>
+            <databan>20260528</databan>
+            <nrrefdest>TZ32136799599</nrrefdest>
+            <ibanbfpl>RO21TREZ3215069XXX006601</ibanbfpl>
+            <platitor>30330604</platitor>
+            <numepb>ALADIL PRESTIGE SRL</numepb>
+            <sumad>3449.99</sumad>
+            <sumac>0</sumac>
+            <codcontract>AAB2SECE55F</codcontract>
+            <randcontract>AAB</randcontract>
+            <codprogram>0000000000</codprogram>
+            <explicatii>TZ32136799599-F.404/CTR.14/6335/24/RF6230/24/PREST.SERV.RSVTI ISCIR/ORD.47.2/SF</explicatii>
+        </cont_misc>
+        <cont_misc>
+            <nrdoc>188</nrdoc>
+            <datadoc>20260528</datadoc>
+            <databan>20260528</databan>
+            <nrrefdest>TZ32136799605</nrrefdest>
+            <ibanbfpl>RO21TREZ3215069XXX006601</ibanbfpl>
+            <platitor>30330604</platitor>
+            <numepb>ALADIL PRESTIGE SRL</numepb>
+            <sumad>3507.97</sumad>
+            <sumac>0</sumac>
+            <codcontract>AAB2SECE55F</codcontract>
+            <randcontract>AAB</randcontract>
+            <codprogram>0000000000</codprogram>
+            <explicatii>TZ32136799605-F.534/CTR.14/6335/24/RF6230/24/PREST.SERV.RSVTI ISCIR/ORD.47.5/SF</explicatii>
+        </cont_misc>
+        <cont_misc>
+            <nrdoc>190</nrdoc>
+            <datadoc>20260528</datadoc>
+            <databan>20260528</databan>
+            <nrrefdest>TZ32136799609</nrrefdest>
+            <ibanbfpl>RO21TREZ3215069XXX006601</ibanbfpl>
+            <platitor>30330604</platitor>
+            <numepb>ALADIL PRESTIGE SRL</numepb>
+            <sumad>3507.97</sumad>
+            <sumac>0</sumac>
+            <codcontract>AAB2SECE55F</codcontract>
+            <randcontract>AAB</randcontract>
+            <codprogram>0000000000</codprogram>
+            <explicatii>TZ32136799609-F.637/CTR.14/6335/24/RF6230/24/PREST.SERV.RSVTI ISCIR/ORD.47.8/SF</explicatii>
+        </cont_misc>
+        <cont_misc>
+            <nrdoc>191</nrdoc>
+            <datadoc>20260528</datadoc>
+            <databan>20260528</databan>
+            <nrrefdest>TZ32136799611</nrrefdest>
+            <ibanbfpl>RO14TREZ3215069XXX007406</ibanbfpl>
+            <platitor>32018316</platitor>
+            <numepb>ELECTRO STORM SAN  SRL</numepb>
+            <sumad>5041.66</sumad>
+            <sumac>0</sumac>
+            <codcontract>AAB2SECE55F</codcontract>
+            <randcontract>AAB</randcontract>
+            <codprogram>0000000000</codprogram>
+            <explicatii>TZ32136799611-C/V F.218/04.26 CNF.HCL125/27.11.25/ORD.34.4/SF</explicatii>
+        </cont_misc>
+        <cont_misc>
+            <nrdoc>189</nrdoc>
+            <datadoc>20260528</datadoc>
+            <databan>20260528</databan>
+            <nrrefdest>TZ32136799607</nrrefdest>
+            <ibanbfpl>RO21TREZ3215069XXX006601</ibanbfpl>
+            <platitor>30330604</platitor>
+            <numepb>ALADIL PRESTIGE SRL</numepb>
+            <sumad>3507.97</sumad>
+            <sumac>0</sumac>
+            <codcontract>AAB2SECE55F</codcontract>
+            <randcontract>AAB</randcontract>
+            <codprogram>0000000000</codprogram>
+            <explicatii>TZ32136799607-F.576/CTR.14/6335/24/RF6230/24/PREST.SERV.RSVTI ISCIR/ORD.47.6/SF</explicatii>
+        </cont_misc>
+        <cont_misc>
+            <nrdoc>186</nrdoc>
+            <datadoc>20260528</datadoc>
+            <databan>20260528</databan>
+            <nrrefdest>TZ32136799601</nrrefdest>
+            <ibanbfpl>RO21TREZ3215069XXX006601</ibanbfpl>
+            <platitor>30330604</platitor>
+            <numepb>ALADIL PRESTIGE SRL</numepb>
+            <sumad>3507.97</sumad>
+            <sumac>0</sumac>
+            <codcontract>AAB2SECE55F</codcontract>
+            <randcontract>AAB</randcontract>
+            <codprogram>0000000000</codprogram>
+            <explicatii>TZ32136799601-F.445/CTR.14/6335/24/RF6230/24/PREST.SERV.RSVTI ISCIR/ORD.47.3/SF</explicatii>
+        </cont_misc>
+        <cont_misc>
+            <nrdoc>187</nrdoc>
+            <datadoc>20260528</datadoc>
+            <databan>20260528</databan>
+            <nrrefdest>TZ32136799603</nrrefdest>
+            <ibanbfpl>RO21TREZ3215069XXX006601</ibanbfpl>
+            <platitor>30330604</platitor>
+            <numepb>ALADIL PRESTIGE SRL</numepb>
+            <sumad>3507.97</sumad>
+            <sumac>0</sumac>
+            <codcontract>AAB2SECE55F</codcontract>
+            <randcontract>AAB</randcontract>
+            <codprogram>0000000000</codprogram>
+            <explicatii>TZ32136799603-F.488/CTR.14/6335/24/RF6230/24/PREST.SERV.RSVTI ISCIR/ORD.47.8/SF</explicatii>
+        </cont_misc>
+        <Rulaj_zi>
+            <Sumad>29481.49</Sumad>
+            <Sumac>0</Sumac>
+        </Rulaj_zi>
+        <Total_sume>
+            <Sumad>67905.21</Sumad>
+            <Sumac>0</Sumac>
+        </Total_sume>
+        <Sold_final>
+            <Sumad>67905.21</Sumad>
+            <Sumac>0</Sumac>
+        </Sold_final>
+    </cont_ext>
+    <cont_ext>
+        <cont Cod_IBAN="RO30TREZ3215012XXX013266" Nr_op="1">50125182140</cont>
+        <Sold_precedent>
+            <Sumad>0</Sumad>
+            <Sumac>9370.75</Sumac>
+        </Sold_precedent>
+        <cont_misc>
+            <nrdoc>1241</nrdoc>
+            <datadoc>20260527</datadoc>
+            <databan>20260527</databan>
+            <nrrefdest>49744889</nrrefdest>
+            <ibanbfpl>RO69CECEC001946005155102</ibanbfpl>
+            <platitor>5182140</platitor>
+            <numepb>PRIMARIA COMUNEI BANEASA</numepb>
+            <sumad>0</sumad>
+            <sumac>1584</sumac>
+            <codcontract/>
+            <randcontract/>
+            <codprogram/>
+            <explicatii>TZ32136794982-Cval tranzactii POS decontate in 27052026</explicatii>
+        </cont_misc>
+        <Rulaj_zi>
+            <Sumad>0</Sumad>
+            <Sumac>1584</Sumac>
+        </Rulaj_zi>
+        <Total_sume>
+            <Sumad>51267</Sumad>
+            <Sumac>62221.75</Sumac>
+        </Total_sume>
+        <Sold_final>
+            <Sumad>0</Sumad>
+            <Sumac>10954.75</Sumac>
+        </Sold_final>
+    </cont_ext>
+</extras>

@@ -1,0 +1,29 @@
+# Config pentru extract_extrase.py
+#
+# Rulare:
+#   python3 extract_extrase.py            (foloseste acest config.toml)
+#   python3 extract_extrase.py alt.toml   (foloseste alt fisier)
+
+# Folderele cu PDF-uri de procesat. Adauga oricate vrei.
+# Fiecare folder produce propriul set de output (Excel + DBF + XML).
+input_folders = [
+    "/Users/apple/Documents/documente primarii/baneasa/EXTRASE MAI 2026",
+    # "/Users/apple/Documents/documente primarii/baneasa/EXTRASE IUNIE 2026",
+]
+
+# Folderul de baza pentru output. Pentru fiecare input folder se creeaza
+# aici un subfolder cu numele lui, continand {nume}.xlsx, {nume}.dbf,
+# {nume}_concat.xml si xml_extrase/.
+output_folder = "/Users/apple/Documents/primarii/output"
+
+# --- Optionale (au valori implicite bune, le poti sterge) ---
+
+# Pattern pentru fisierele PDF. `*` din pozitia CUI face scriptul sa mearga
+# pentru orice primarie; CUI-ul se detecteaza automat din numele fisierului.
+glob_pattern = "TREZ321_ExtrasEP_PDFCLI_*_XML_SIGNED_*.pdf"
+
+# Encoding pentru textul din DBF (Europa de Est / Windows).
+dbf_encoding = "cp1250"
+
+# Forteaza un CUI anume (altfel se detecteaza automat din numele fisierului).
+# cui = "5182140"
